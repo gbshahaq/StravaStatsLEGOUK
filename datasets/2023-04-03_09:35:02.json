@@ -1,0 +1,80 @@
+[
+    {
+        "rank": 1,
+        "athlete_id": 5059389,
+        "velocity": 3.5326952970174395,
+        "elev_gain": 68,
+        "num_activities": 1,
+        "moving_time": 2523,
+        "distance": 8912.990234375,
+        "best_activities_distance": 8912.990234375,
+        "best_activities_distance_activity_id": 8823375181,
+        "athlete_firstname": "Stephen",
+        "athlete_lastname": "M."
+    },
+    {
+        "rank": 2,
+        "athlete_id": 103056769,
+        "velocity": 3.0011005213827358,
+        "elev_gain": 30.84677505493164,
+        "num_activities": 1,
+        "moving_time": 2844,
+        "distance": 8535.1298828125,
+        "best_activities_distance": 8535.1298828125,
+        "best_activities_distance_activity_id": 8823343225,
+        "athlete_firstname": "Marina",
+        "athlete_lastname": "E."
+    },
+    {
+        "rank": 3,
+        "athlete_id": 42981667,
+        "velocity": 3.6138681169272604,
+        "elev_gain": 5.519705772399902,
+        "num_activities": 1,
+        "moving_time": 1471,
+        "distance": 5316,
+        "best_activities_distance": 5316,
+        "best_activities_distance_activity_id": 8823207550,
+        "athlete_firstname": "Jaume",
+        "athlete_lastname": "C."
+    },
+    {
+        "rank": 4,
+        "athlete_id": 52884370,
+        "velocity": 3.1941402546223134,
+        "elev_gain": 17.304285049438477,
+        "num_activities": 1,
+        "moving_time": 1582,
+        "distance": 5053.1298828125,
+        "best_activities_distance": 5053.1298828125,
+        "best_activities_distance_activity_id": 8823247407,
+        "athlete_firstname": "Mairead",
+        "athlete_lastname": "H."
+    },
+    {
+        "rank": 5,
+        "athlete_id": 1908509,
+        "velocity": 2.8043008264089595,
+        "elev_gain": 34,
+        "num_activities": 1,
+        "moving_time": 1730,
+        "distance": 4851.4404296875,
+        "best_activities_distance": 4851.4404296875,
+        "best_activities_distance_activity_id": 8823031729,
+        "athlete_firstname": "Josh",
+        "athlete_lastname": "B."
+    },
+    {
+        "rank": 6,
+        "athlete_id": 31140189,
+        "velocity": 2.814486920122315,
+        "elev_gain": 9.063888549804688,
+        "num_activities": 1,
+        "moving_time": 1257,
+        "distance": 3537.81005859375,
+        "best_activities_distance": 3537.81005859375,
+        "best_activities_distance_activity_id": 8823342890,
+        "athlete_firstname": "Fiona",
+        "athlete_lastname": "D."
+    }
+]
